@@ -1,0 +1,4 @@
+qiuguan:
+  log:
+    prefix: qiuguan_log_prefix
+    suffix: qiuguan_log_suffix

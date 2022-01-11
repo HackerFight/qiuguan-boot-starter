@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.qiuguan.boot.autoconfigure.log.LoggingAutoConfiguration,\
+com.qiuguan.boot.autoconfigure.id.IdAutoConfiguration,\
+com.qiuguan.boot.autoconfigure.date.DateAutoConfiguration
