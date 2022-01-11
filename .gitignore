@@ -1,0 +1,3 @@
+# Project exclude paths
+/qiuguan-spring-boot-autoconfigure/target/
+/service/target/
